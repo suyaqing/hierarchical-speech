@@ -7,6 +7,6 @@ The folder `sentence generation` contains custom MATLAB code to combine single s
 
 The folder `speech model` contains custom MATLAB code for model simulation and plotting. This part requires the software package SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/).
 
-GPT-2 model is implemented in Google Colab: (https://colab.research.google.com/gist/nianlonggu/91a3ba6c32fb8318abe5fe3f3841469a/nccr_ttf_datascience_gettokenprobability.ipynb)
+GPT-2 model is implemented in Google Colab by Nianlong Gu (nianlonggu@gmail.com): (https://colab.research.google.com/gist/nianlonggu/91a3ba6c32fb8318abe5fe3f3841469a/nccr_ttf_datascience_gettokenprobability.ipynb)
 
 Yaqing SU (yaqing.su@unige.ch)
