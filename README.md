@@ -1,5 +1,5 @@
 ## Content
-Custom MATLAB code for manuscript: Y. Su, I. Olasagasti, AL. Giraud, A deep hierarchy of predictions enables assignment of semantic roles in real-time speech comprehension.
+Custom MATLAB code for manuscript: Y. Su, L. MacGregor, I. Olasagasti, AL. Giraud, A deep hierarchy of predictions enables assignment of semantic roles in real-time speech comprehension.
 
 The folder `speech signal` contains .wav files for single syllables used in the simulation. All syllables are synthesized with Praat (https://www.fon.hum.uva.nl/praat/), using British Male Speaker 1.
 
